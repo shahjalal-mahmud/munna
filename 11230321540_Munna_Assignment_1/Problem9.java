@@ -1,5 +1,3 @@
-
-
 public class Problem9 {
         public static void main(String[] args) {
                 double num1=8.5;
